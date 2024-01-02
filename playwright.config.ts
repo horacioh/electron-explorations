@@ -17,7 +17,7 @@ const config: PlaywrightTestConfig = {
     timeout: 10 * 1000,
   },
   timeout: 10 * 1000,
-  reporter: process.env.CI ? 'github' : 'list',
+  // reporter: process.env.CI ? 'github' : 'list',
   // reporter: [
   //   ['list'],
   //   [
