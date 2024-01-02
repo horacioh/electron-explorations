@@ -16,16 +16,16 @@ table of Contents:
 
 - Testing
   - [ ] run tests locally
-  - [ ] run tests in CI
+  - [x] run tests in CI
   - [ ] check for elements visibility
   - [ ] fill form elements
   - [ ] navigation
   - [ ] Electron menus
   - [ ] moving window
 - CI/CD
-  - [ ] build app locally
+  - [x] build app locally
   - [ ] action to build app and create artifacts
-  - [ ] action to test app on every push/PR
+  - [x] action to test app on every push/PR
 
 ---
 
