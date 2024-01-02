@@ -93,3 +93,4 @@ out/
 
 # Playwright tests output
 test-output/
+playwright-report/
