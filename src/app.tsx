@@ -1,5 +1,7 @@
-import * as React from 'react';
-import { createRoot } from 'react-dom/client';
-
-const root = createRoot(document.body);
-root.render(<h2>Hello from React!</h2>);
+export function App() {
+  return (
+    <>
+      <h1 id="title">Welcome to Electron + React</h1>
+    </>
+  );
+}
